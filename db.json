@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "This stream 3 feb 2019",
+      "description": "This stream is released in friday.",
+      "userId": "109267252410702241966",
+      "id": 4
+    },
+    {
+      "title": "High resolution 3.0",
+      "description": "This stream is perfect new on 13/03/2018",
+      "userId": "108308479608337187018",
+      "id": 7
+    },
+    {
+      "title": "Organized stream",
+      "description": "Stream Details is in file.",
+      "userId": "109267252410702241966",
+      "id": 9
+    },
+    {
+      "description": "What is Lorem Ipsum? ",
+      "title": "Lorem Ipsum",
+      "userId": "109267252410702241966",
+      "id": 10
+    },
+    {
+      "title": "Bounded Stream",
+      "description": "This stream is designed for Saurab",
+      "userId": "108308479608337187018",
+      "id": 11
+    }
+  ]
+}
